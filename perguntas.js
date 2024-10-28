@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Química',
+    'Quem é o Pai da Química?',
+    'Considerado o pai da Química, Antoine Lavoisier foi o primeiro a observar que o oxigênio, em contato com uma substância inflamável, produz a combustão. '
 )
 
 criaCartao(
